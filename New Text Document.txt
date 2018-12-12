@@ -1,1 +1,1 @@
-hello my lovely lady 
+my first git practice repo
